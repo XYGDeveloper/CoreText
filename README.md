@@ -1,6 +1,6 @@
-# ZJAttributedText
+# AttributedText
 
-##  告别 NSAttributedString  高性能轻量级富文本框架
+## 高性能轻量级富文本框架
 
 [![Version](https://img.shields.io/cocoapods/v/ZJAttributedText.svg?style=flat)](https://cocoapods.org/pods/ZJAttributedText)
 [![License](https://img.shields.io/cocoapods/l/ZJAttributedText.svg?style=flat)](https://cocoapods.org/pods/ZJAttributedText)
@@ -219,8 +219,5 @@ pod 'ZJAttributedText', '0.1.4'
 
 ## 作者
 
-Jsoul1227@hotmail.com
+15243228311@163.com
 
-## 许可证
-
-ZJAttributedText is available under the MIT license. See the LICENSE file for more info.
