@@ -1,0 +1,23 @@
+PODS:
+  - SDWebImage/Core (4.1.0)
+  - ZJAttributedText (0.1.4):
+    - SDWebImage/Core
+
+DEPENDENCIES:
+  - ZJAttributedText (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  ZJAttributedText:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDWebImage: 0e435c14e402a6730315a0fb79f95e68654d55a4
+  ZJAttributedText: 0d6873cee78c0cabbd3fc24f927cdfd8fd896590
+
+PODFILE CHECKSUM: 78ba630b2e9c0c3c3a7aa5c7dd929e3d5856dc09
+
+COCOAPODS: 1.5.3
